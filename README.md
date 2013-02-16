@@ -15,9 +15,7 @@ For a Python and PHP version, check out [py.saunter and saunter.php](https://git
 
 ## Looking for help?
 
-If it is a bug [please open an issue on Github](https://github.com/arrgyle/chemistrykit/issues). If you need help using
-the gem please ask the question on [Stack Overflow](http://stackoverflow.com). Be sure to tag the
-question with `ChemistryKit` so we can find it.
+If your have a question or find a bug, [please open an issue on Github](https://github.com/arrgyle/chemistrykit/issues).
 
 ## Installation
 
